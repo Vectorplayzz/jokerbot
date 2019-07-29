@@ -1,0 +1,11 @@
+{
+  "token": "your bot token goes here",
+  "emojis":
+  {
+    "11": "<:11:REPLACE-THIS-WITH-EMOJI-ID>",
+    "12": "<:12:REPLACE-THIS-WITH-EMOJI-ID>",
+    "13": "<:13:REPLACE-THIS-WITH-EMOJI-ID>",
+    "14": "<:14:REPLACE-THIS-WITH-EMOJI-ID>",
+    "15": "<:15:REPLACE-THIS-WITH-EMOJI-ID>"
+  }
+}
